@@ -1,5 +1,6 @@
 # Formulário animado com JS puro e CSS Animation
 
+
 ## Desafios
 
 - [x] Fazer o formulário aparecer, suavemente, quando a página abrir
@@ -47,7 +48,7 @@ podemos ter múltiplas animações no mesmo elemento
 
 
 ## References
-
+[Rocketseat](https://rocketseat.com.br/)
 [CSS Animation Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
 [Animation Timing Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
